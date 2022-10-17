@@ -1,0 +1,1 @@
+export const Restaurant_LIST = "restaurants_list"
